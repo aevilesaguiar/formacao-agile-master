@@ -63,7 +63,49 @@ Desenvolvendo a inteligência Interpessoal
 - Faça uma atividade voluntária
 - leia e assista filmes
 - Faça teatro
-- 
+
+## Inteligência intrapessoal
+
+![image](https://user-images.githubusercontent.com/52088444/236208062-a79cf316-4acb-4020-b48a-db0f72b21b4d.png)
+
+Analisamos nossos pensamentos e sentimentos:
+![image](https://user-images.githubusercontent.com/52088444/236208305-dd76dd20-a8d4-4f81-975a-7cb7fef109c3.png)
+
+![image](https://user-images.githubusercontent.com/52088444/236208777-4c41757c-91c6-4d96-9b97-6341e3720c1b.png)
+
+## Diferença entre inteligencia intrapessoal e interpessoal:
+
+ inteligência intrapessoal — que é a capacidade de conhecer a si mesmo e usar suas competências a seu favor —, a inteligência interpessoal é a habilidade de se relacionar com as outras pessoas.
+ 
+ ## Desenvolvendo a inteligência intrapessoal
+ 
+ - Analise suas emoções(entender a si mesmo, o que deve ser evitado)
+ - Registre suas emoções e sentimentos( nos ajuda a refletir sobre eles)
+ - Dedicar um tempo para examinar nossa própria pessoa
+ - Verifique seus valores, prioridades e objetivos
+ - Antecipar-se ás possiveis situações difíceis
+ - Encontre aquelas atividades que favorecem sua introspecção
+ 
+ 
+ ## Inteligencia emocional
+ 
+ Segundo especialistas a inteligência emocional é influenciada por uma combinação de traços de personalidade níveis mais altos dela são associados a inúmeros benefícios relacionados à vida pessoal e carreira e inclusive a capacidade de liderança.
+ 
+ Inteligência emocional é o nome que se dá ao conjunto de competências relacionadas a lidar com emoções, mais especificamente a como é o quanto se percebe processa compreende e tem a habilidade de gerenciá-los.
+ 
+ Assim a inteligência emocional está muito ligada a quatro domínios básicos percepção das emoções:
+ 
+ ![image](https://user-images.githubusercontent.com/52088444/236212375-ea8cab19-2452-425f-aff7-8fbe5b86bad1.png)
+
+
+![image](https://user-images.githubusercontent.com/52088444/236212443-f8e3f949-1039-4ae8-9d10-b1ae6e96e7ff.png)
+
+ 
+Goleman descreve a inteligência emocional como a capacidade de uma pessoa de gerenciar seus sentimentos de modo que eles sejam expressos de maneira apropriada e eficaz.Segundo ele o controle das emoções é essencial para o desenvolvimento da inteligência de um indivíduo, seu modelo sobre inteligência emocional foco em uma série de competências e habilidades que propiciam melhores desempenhos profissionais inclusive como líder.
+
+## Fundamentos do modelo de Goleman
+
+![image](https://user-images.githubusercontent.com/52088444/236212895-b6704de6-66f1-4331-876d-fd19af21f635.png)
 
 
 
