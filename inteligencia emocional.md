@@ -122,6 +122,29 @@ Goleman descreve a inteligência emocional como a capacidade de uma pessoa de ge
 
 - Autocontrole
 
+- Auto-motivação capacidade de se automotivar.
+- Desenvolvendo a auto-motivação( encontre um propósito, evite as perdas de tempo, pareto 80/20,estabela um desafio após cumprir uma meta,livres-se da autosabotagem, escolha uma direção, o que quer realizar, sua energia vai para onde você se foca , motive os outros, use o cerébro inteiro ouça o que está motivado a fazer, planeje-se)
+- Empatia( não é tentar agradar a todos, e sim está atentos aos sentimentos dos funcionários e outros fatores)
+   A importancia da empatia na vida profissionais:
+   ![image](https://user-images.githubusercontent.com/52088444/236224504-1dde5ace-45bf-4c77-81a5-62618563bcb1.png)
+   Desenvolver a empatia:
+   - Coloque-se no lugar do outro
+   - Desenvolva o autoconhecimento
+   - Fomente sua curiosidade sobre os outros
+   - Seja empatico consigo mesmo(perdoe-se)
+
+- Habilidade Social :Também conhecido como relacionamentos interpessoais, no mundo do trabalho. Administrar boas relações permitem o líder conduzir as pessoas na direção desejada. É preciso ter poder de persuasão e expertise em formar e liderar equipes.
+
+As principais aptidões das habilidades sociais:
+![image](https://user-images.githubusercontent.com/52088444/236227565-11784d9b-d32d-4e99-8e7e-9d7878f442a2.png)
+
+![image](https://user-images.githubusercontent.com/52088444/236227976-041fa5e4-ca29-4992-bcc7-c8b4660dd79b.png)
+
+
+![image](https://user-images.githubusercontent.com/52088444/236228561-cd21a4d5-15be-4039-86c7-768d6efa6782.png)
+- habilidaade de cooperação
+- habilidade de formar vinculos
+- 
 
 
 
