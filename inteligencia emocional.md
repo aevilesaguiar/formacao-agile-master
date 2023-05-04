@@ -97,6 +97,11 @@ Analisamos nossos pensamentos e sentimentos:
  
  ![image](https://user-images.githubusercontent.com/52088444/236212375-ea8cab19-2452-425f-aff7-8fbe5b86bad1.png)
 
+Autocontrole é a capacidade de dominar seus próprios impulsos, emoções e paixões. Essa habilidade não diz respeito a frear ou impedir que os sentimentos nos atinjam, mas trata de uma forma mais saudável de lidar com as emoções, especialmente as negativas. Gerenciar as emoções.
+
+Dicas para não deixar o distúrbio afetar seu desempenho no ambiente profissional:
+
+![image](https://user-images.githubusercontent.com/52088444/236220836-947e65e7-d335-4767-9261-dea2262a7762.png)
 
 ![image](https://user-images.githubusercontent.com/52088444/236212443-f8e3f949-1039-4ae8-9d10-b1ae6e96e7ff.png)
 
@@ -106,6 +111,17 @@ Goleman descreve a inteligência emocional como a capacidade de uma pessoa de ge
 ## Fundamentos do modelo de Goleman
 
 ![image](https://user-images.githubusercontent.com/52088444/236212895-b6704de6-66f1-4331-876d-fd19af21f635.png)
+
+
+- Autoconhecimento( 1° item da inteligência emocional)
+![image](https://user-images.githubusercontent.com/52088444/236217936-d5838aa8-35e2-4e66-bb29-178f4534cf0e.png)
+
+![image](https://user-images.githubusercontent.com/52088444/236218697-b93b6fb0-792b-4078-a3c7-92c59acd2156.png)
+
+![image](https://user-images.githubusercontent.com/52088444/236219143-d8d8aaf3-7565-430f-9455-ee71c34dd3a0.png)
+
+- Autocontrole
+
 
 
 
