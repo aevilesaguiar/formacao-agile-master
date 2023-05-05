@@ -147,3 +147,38 @@ Os líderes carismáticos possuem uma visão e com isso estão dispostos a enfre
 - possui elevado grau de empatia
 - Comunicação interpessoal
 
+## Liderança Servidora
+
+O estilo de liderança servidora surgiu em 1970 e foi popularizado em 1988 com o advento do livro O Monge e o executivo.Esse estilo permite a criação de um sistema de cooperação mútua e contínua agregando conhecimentos e compartilhando ideias. Além disso é um estilo de liderança com foco no capital humano e não apenas em resultados para empresa o que possibilita a adoção de práticas e políticas mais eficientes.
+
+O líder servidor possui um perfil especial capaz de influenciar incentivar e engajar a todos as atitudes e características do líder servidor. O líder servidor demonstrou no cotidiano algumas posturas importantes que fortalecem um ambiente de
+
+
+![image](https://user-images.githubusercontent.com/52088444/236463148-e3e43853-25d0-4079-9b56-c1064f3436c4.png)
+
+![image](https://user-images.githubusercontent.com/52088444/236463299-1bb3a80e-a980-45c2-b5e4-a80c183f380e.png)
+
+![image](https://user-images.githubusercontent.com/52088444/236463645-5083b356-b6c4-4361-9bbb-8456b577784f.png)
+
+
+## Liderança Autentica
+
+Basicamente o líder autêntico é aquele que foca em desenvolver as pessoas com quem trabalha dando lhes a possibilidade de ascensão.
+
+
+O interesse pela liderança autêntica aumentou durante o período em que houve grande preocupação social e instabilidade nos Estados Unidos provocadas particularmente pelo desastre no mercado financeiro em 2008 por conta da corrupção de corporações que desencadeou uma crise econômica mundial.
+
+A difusão de liderança ineficaz e antiética necessitava de uma liderança mais construtiva e humana que objetivarse o bem comum.
+
+Assim considerando a liderança autêntica foi entendida como um processo, teoricamente quatro foram os componentes identificados na liderança autêntica:
+
+![image](https://user-images.githubusercontent.com/52088444/236464487-86e0830e-55a9-436a-8e68-f3bd8c28f36a.png)
+
+
+
+
+
+
+
+
+
