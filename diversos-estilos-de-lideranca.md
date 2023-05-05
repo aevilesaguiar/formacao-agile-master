@@ -139,6 +139,11 @@ Características do líder transformacional:
 ##  Liderança Carismática
 
 
+O carisma da liderança gera respostas positivas de seus colaboradores e consequentemente maior dedicação.  Um líder carismático é aquele capaz de inspirar fascinar e fazer com que todos ao seu redor estejam dispostos a segui-lo
+Os líderes carismáticos possuem uma visão e com isso estão dispostos a enfrentar e correr riscos. São sensíveis tanto a limitações ambientais quanto às necessidades de seus liderados e demonstram comportamentos diferenciados dos comuns.
 
+![image](https://user-images.githubusercontent.com/52088444/236277166-ffc3ce47-4b08-4f4b-b37a-4f57cc5b7e41.png)
 
+- possui elevado grau de empatia
+- Comunicação interpessoal
 
