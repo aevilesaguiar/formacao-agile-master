@@ -175,10 +175,76 @@ Assim considerando a liderança autêntica foi entendida como um processo, teori
 ![image](https://user-images.githubusercontent.com/52088444/236464487-86e0830e-55a9-436a-8e68-f3bd8c28f36a.png)
 
 
+- A auto consciência refere se aos insights pessoais do líder não sendo um fim em si mesma, mas sim um processo em que indivíduos se entendem a si próprios incluindo suas fraquezas e potencialidades, e o impacto que eles têm sobre os outros.
+- A perspectiva moral internalizada, refere se a um processo auto regulado pelo qual indivíduos usam valores e padrões morais internos para guiar seu comportamento.
+- Processamento equilibrado é também um comportamento auto regulado referindo se a habilidades de um indivíduo para analisar objetivamente a informação explorando a opinião de outras pessoas antes de tomar uma decisão.Também significa evitar favoritismo sobre certos temas e permanecer imparcial em relação aos fatos.
+- transparência nas relações refere-se a estar aberto e ser honesto na apresentação de si aos outros. É um processo auto regulado porque os indivíduos podem controlar sua transparência como outros, inclui indivíduos mostrando aspectos positivos e negativos de si mesmos aos demais.
+
+Em adição a esses quatro comportamentos ainda há quatro atributos psicológicos positivos que têm impacto sobre a liderança autentica:
+
+![image](https://user-images.githubusercontent.com/52088444/236537286-f3a0e463-4f44-40eb-8820-4d98f0bff199.png)
+
+
+Qual a diferença entre a liderança autêntica carismática e transformacional? 
+
+tanto a liderança carismática como a transformacional, tratam de indivíduos que inspiram seguidores por meio de suas palavras, idéias, comportamentos e são mais persuasivos, já a liderança autêntica pode também desenvolver todos esses elementos, no entanto ela é uma liderança guiada por valores e moral por virtudes humanas.
+
+Líder carismaticos (Hither- não é um bom exemplo)
+Madre Tereza de Calculta é um exemplo de lider carismatico.
+
+![image](https://user-images.githubusercontent.com/52088444/236540112-c1d9741a-bda6-40b8-91a4-bb16b9516325.png)
+
+## Liderança adaptativa
+
+A liderança adaptativa exige que as pessoas abram mão das formas ultrapassadas de abordar as mudanças e abracem novas tendências orientando as organizações neste novo século.
+
+![image](https://user-images.githubusercontent.com/52088444/236540307-3bfc2ae9-f076-40c8-895b-bcd2909c1a06.png)
+
+na liderança adaptativa procura- se enfatizar a divisão das habilidades profissionais em dois tipos Hard skills que são as habilidades técnicas que podem ser mensuradas com facilidade e são adquiridas principalmente com educação formal, e soft skills que são as habilidades comportamentais, competências mais difíceis de serem mensurados porque envolvem aspectos mentais e emocionais.
+
+Segundo o World Economic Forum o mercado exigirá dos profissionais das habilidades fundamentais que são:
+
+![image](https://user-images.githubusercontent.com/52088444/236540666-b606a6f9-b4fa-4aef-ac1d-b605af014e99.png)
+
+
+As vantagens da liderança adaptativa:
+
+![image](https://user-images.githubusercontent.com/52088444/236540950-86f8eea4-0445-46ae-b0e1-d42328028c28.png)
+
+## lIDERANÇA cOACH
+
+
+A liderança CoAch é um estilo de liderança englobado pelas abordagens alternativas emergentes.
+![image](https://user-images.githubusercontent.com/52088444/236541066-774e8a2e-e525-4d08-a9a9-95dfb0ee6d8d.png)
 
 
 
+![image](https://user-images.githubusercontent.com/52088444/236541157-7e37d283-6be8-425b-969c-e7b8d25731f4.png)
+
+O que faz o coach?
+
+papel assumido por alguém que se compromete a apoiar outra pessoa a atingir determinado objetivo. Esse processo é iniciado quando uma pessoa procura apoio de um coach, para resolver um problema ou realizar um projeto e aceita comprometer-se com esse papel.
+
+O Coach então deve apresentar a capacidade de identificar em que momento a pessoa está. Quais suas principais limitações que a impedem de alcançar seus objetivos. Quais suas potencialidades ainda não desenvolvidas que podem auxiliar a alcançar os objetivos, assim como quais seus pontos fortes e que esses sim serão alavancados para superar os pontos de melhoria.
 
 
+As palavras se baseiam:
+
+![image](https://user-images.githubusercontent.com/52088444/236542183-a6aebbaf-0707-424f-92ec-79b12072689c.png)
 
 
+Em 1900 foi usados para técnicos desportistas. em 1950 começa a ser associado com a habilidade de gerenciamento de pessoas. E em 1970 é aplicado ao tênis
+
+
+Em português:
+
+![image](https://user-images.githubusercontent.com/52088444/236542588-09fd1ebb-689c-442a-9b1d-897d55b0509f.png)
+
+O processo de coaching tem se apresentado eficaz uma vez que em um espaço curto de tempo é capaz de promover mudanças no indivíduo e possibilitar o alcance de objetivos conforme seu engajamento no processo.
+
+O indivíduo que se submete ao processo de Couchee busca sair de um estado atual em busca de um estado desejado ou seja um objetivo que quer alcançar seja ele profissional ou pessoal. O alcance desse objetivo se dá por meio de processos de autoconhecimento ou seja o Couch e o Couchee, juntos, buscaram identificar quais são os pontos fortes que possibilitam alcançar o estado desejado e quais as oportunidades de melhoria que podem estar impedindo o time de alcançar o objetivo, e que devem portanto ser desenvolvidas.
+
+O processo de coach:
+
+![image](https://user-images.githubusercontent.com/52088444/236543049-ae298fd3-036c-4235-80d0-266aa389aa8e.png)
+possui 3 pilares.
