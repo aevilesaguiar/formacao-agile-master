@@ -59,8 +59,10 @@ Estamos falando de papel e funções e não de pessoas. OU seja podemos medir in
 
 Basicamente existem dois tipos de metas individuais que podem ser estabelecidas :
 
-- metas de produtividade: 
+- metas de produtividade
 - metas de desenvolvimento
+
+
 
 
 
