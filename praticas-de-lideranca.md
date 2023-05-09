@@ -29,7 +29,7 @@ busca por mudanças organizacionais também é promovida e beneficiada com lider
 Para ser um líder Coach é necessário conhecer cada indivíduo de sua equipe para poder orientar em seu desenvolvimento pessoal, o líder Coach também não se esquece de suas responsabilidades enquanto líder que gerencia processos e promove mudanças, que alavancaram a organização a todo momento, esse líder avalia os processos que apoiam a equipe, implanta mudanças construtivas e percebidas por todos a empresa trazendo inovação para os processos. Constantemente o líder coach se fortalece e acompanha os planos de desenvolvimento de sua equipe, elevando as potencialidades de cada um, assim como valorizando talentos e habilidades.
 
 
-## Diferença entre Objetivo e emeta
+## Diferença entre Objetivo e meta
 
 Objetivo pode ser entendido como um sonho, o que o motiva diariamente em busca de uma satisfação e realização profissional ou pessoal no âmbito pessoal. Pode ser comprar a casa própria trocar de carro praticar uma atividade física casar e ter filhos. Com relação à carreira os objetivos se referem a fazer uma especialização num intercâmbio ou mudar de cargo. Já no que diz respeito ao ambiente empresarial um objetivo pode ser a entrega de um projeto importante, lançar um novo produto, aumentar a área de atuação da empresa ou abrir uma filial. Para alcançar um objetivo você deve dividi-lo em metas. 
 
@@ -38,6 +38,31 @@ Metas são os objetivos de forma quantificada. Quando você referimos a uma meta
 Por exemplo você deseja comprar uma casa cujo valor é de 500.000. Para isso uma das metas é economizar uma determinada quantia por mês durante dois anos. Outra meta é conseguir aplicar parte do valor em um investimento de renda fixa. Além disso, você pode criar uma meta para encontrar uma forma de renda extra durante esse mesmo período. Ao cumprir todas elas você estará muito próximo da realização do seu objetivo.
 
 Então resumidamente: o objetivo é o que se deseja alcançar, enquanto as metas correspondem às ações necessárias para isso, tendo prazos e responsáveis.
+
+## KPIS(Key performance Indicators)
+
+Indicadores chave de Desempenho são usados para medir o desempenho de uma organização, mas podemos expandir esse conceito para medir o desempenho individual.
+Os KPI'S são métricas que quantifica o desempenho da empresa com base em seus objetivos organizacionais comparando os resultados obtidos com os planejados.
+é importante ressaltar que os indicadores de desempenho refletem um determinado período para a sua apuração, garantindo a eficiência das ações em seu negócio.
+
+Toda organização devem ter indicadores chave de desempenho, para saber como estão indo os negócios. Portanto os principais indicadores de desempenho são aqueles elementos essenciais e significativos que ajudam você a saber até que ponto a posição e o papel estão funcionando dentro da empresa.
+
+Para isso precisamos de:
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/534484fc-fc12-40e5-b902-9a570117338a)
+
+Estamos falando de papel e funções e não de pessoas. OU seja podemos medir indicadores de eficácia para as suas funçõe.
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/270d0dc3-ca44-4362-9f87-98d5d5a157a3)
+
+## Definindo metas individuais
+
+Basicamente existem dois tipos de metas individuais que podem ser estabelecidas :
+
+- metas de produtividade: 
+- metas de desenvolvimento
+
+
 
 
 
