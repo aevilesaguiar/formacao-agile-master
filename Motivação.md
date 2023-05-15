@@ -152,18 +152,39 @@ Um jeito de se fazer a coisa
 ![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/6be41563-3444-47c1-bf70-7fa02e362dfd)
 No que este trabalho contribue para eu ser uma pessoa melhor
 
+Essa nova abordagem é composta por três pilares:
 
-Essa nova abordagem é composta por três elementos:
 - Autonomia
+- Maestria: é natural que as pessoas queiram melhorar suas habilidades e serem reconhecidas por isso. Dessa maneira é crucial que a melhoria seja sempre promovida no ambiente de trabalho.
+- Própósito:O propósito faz as pessoas desempenharem suas atividades de maneira mais eficiente. Portanto para desenvolver o propósito dentro de uma organização é preciso guiar a organização por ideais como honra Verdade e Justiça sem explicar o motivo pelo qual uma coisa deve ser feita. Estabelecer uma cultura servidora ou seja os líderes estão lá para auxiliar seus liderados a evoluírem suas carreiras e também como pessoas mais justas e solidárias.
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/9e9b11bb-58b7-4423-a5dc-0dd2953ad33a)
 
-![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/48a93020-aa2a-43af-9888-9ea8d85e8eb2)
 
 E são quatro os fundamentos que compõem a autonomia:
 
-![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/00394e1b-0df8-4c29-a527-8689e17b4b99)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/48a93020-aa2a-43af-9888-9ea8d85e8eb2)
+
+- As pessoas devem ter alguma autonomia para escolher no que elas vão trabalhar. Uma maneira de fazer isso é permitir que os colaboradores desenvolvam o projeto que eles quiserem durante vinte por cento do tempo da jornada de trabalh.
+- Tempo :Muitos funcionários além de cumprirem sua jornada de trabalho na empresa ainda precisam estar disponíveis pelo celular e meio durante seu tempo de descanso. Isso prejudica seu bem estar seus hobis e suas relações pessoais o que diminui a motivação e pode aumentar o nível de rotatividade.O antídoto para esse problema é estabelecer um ambiente focado apenas em resultados. O foco está no trabalho propriamente dito não nas horas trabalhadas, é óbvio que os funcionários precisam atingir metas e prazos, mas desde que eles consigam isso, eles podem ter autonomia de trabalhar quando e onde quiserem.
+- Técnica :  as pessoas não precisam ser micro gerenciadas isto é, serem acompanhadas nos mínimos detalhes em cada tarefam que executam a não ser que estejam sendo treinadas para executá-las.  Estabelecidas as metas a serem cumpridas as pessoas devem ter autonomia de descobrir qual a melhor maneira de atingi-las.
+- Equipe na maioria das organizações não é possível escolher a equipe com a qual você vai trabalhar. Isso pode gerar cenários frustrantes em que você é obrigado a trabalhar com pessoas que não gostam. O ideal em uma contratação seria haver uma rotação de candidatos em diversos times até que os membros de um time decidam se a pessoa deve ser contratada ou não.Outra opção bem interessante principalmente em times que desenvolvem projetos é permitir que os funcionários possam trabalhar em grupos que eles mesmos escolheram.
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/c7d3f901-a582-4189-89ef-c3d26e193810)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/e6b3ea1e-9e5d-4d37-8f73-8bae6954e34a)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/de93f576-55e6-44e2-97be-8dd21f8c2f4c)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/b26ccbdf-c711-4338-bd4f-b572c135f086)
+
 
 ## Motivando times
 
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/d5fed41d-fe6c-416e-8cc3-a52b7bfc98ab)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/fc36cd49-5974-4387-9a1b-1ca9dae03f50)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/227da96b-d116-41e5-80dd-3f1d8d615833)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/6af2c3e2-f6b0-4bfe-a1d4-bae4989ded01)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/351d3469-13f2-4d30-b839-38b529862997)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/47bd78e4-ed96-47db-a3c8-2340071ae4e3)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/c14e9afd-3221-42b7-b91e-1678b692cd0b)
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/0634ce76-84ab-4117-b978-f7bac25d0954)
 
 
 
