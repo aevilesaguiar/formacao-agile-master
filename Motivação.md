@@ -95,41 +95,72 @@ Em 1961 David estabeleceu que 3 tipos de necessidades merecem atenção as neces
 
 Os indivíduos com alta necessidade de realização escolhem situações que percebem e assumam riscos moderados onde acreditam que suas habilidades serão suficientes ou que as chances são boas o bastante para que se tenham sucesso na realização da tarefa.
 
+##  Teoria do Estabelecimento de Objetivos
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/7d99cb23-68e9-4a34-9ee5-10b2c23a2bb7)
+
+## Teoria do Reforço
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/c12f1f4a-b0af-4038-af10-bb45ffe1eb24)
+
+O comportamento das pessoas pode ser reforçado através de esforço e incentivos.
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/d7d174d2-ffc6-4f78-8197-8d54d6eeb9a3)
+
+##  Teoria do planejamento do trabalho
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/27b7e70e-71dc-4dc4-a1c0-3ad98fa6cceb)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/755574ca-70b3-4282-9057-f09d29f5d8b5)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/5966ac2d-d5ef-489b-8465-6674b27614fe)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/6b4188fb-7b7a-4a89-94ef-f99fb5b27c07)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/363ebb8b-0808-4f68-a56f-a334e50c15b8)
+
+##  Teoria da Equidade
+
+As pessoas se motivam se todos foram tratados da mesma maneira.
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/aff03f40-a653-4646-9150-1a1aa0817e8b)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/7203c97c-6321-4520-a029-d3354dc8f1f7)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/4e1cc089-218a-430b-93ad-e144600e3cbe)
+
+## Teoria da Expectativa
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/07de223c-3f0e-4a11-a6dc-26cf93a9bbfa)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/c31a662f-03c0-4c03-8702-4e2a10b6bb32)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/c7698b7d-f65c-4351-bea8-02fc5d6447b3)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/3d5cf13f-8b55-4219-9a8a-2452ef31a5fe)
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/fa0b3271-d492-4e9b-8229-76f1c114e1f8)
 
 
+## Motivação 3.0
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/2aed8d84-9eb3-44f0-a2cf-39fb1fa6b195)
+instinto de sobrevivencia
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/9fe7c8d4-1260-4b9b-ad02-437c4a746646)
+Um jeito de se fazer a coisa
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/6be41563-3444-47c1-bf70-7fa02e362dfd)
+No que este trabalho contribue para eu ser uma pessoa melhor
 
 
+Essa nova abordagem é composta por três elementos:
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/48a93020-aa2a-43af-9888-9ea8d85e8eb2)
+E são quatro os fundamentos que compõem a autonomia tarefas.
+
+## Motivando times
 
 
-
-
-5m
-Reproduzir
-97. Teoria da autodeterminação
-6m
-Reproduzir
-98. Teoria do Estabelecimento de Objetivos
-4m
-Reproduzir
-99. Teoria do Reforço
-3m
-Reproduzir
-100. Teoria do planejamento do trabalho
-5m
-Reproduzir
-101. Teoria da Equidade
-7m
-Reproduzir
-102. Teoria da Expectativa
-5m
-Reproduzir
-103. Motivação 3.0
-8m
-Reproduzir
-104. Motivando times
-6m
-Iniciar
-105. E afinal, dinheiro motiva?
 
 
 
