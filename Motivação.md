@@ -154,9 +154,13 @@ No que este trabalho contribue para eu ser uma pessoa melhor
 
 
 Essa nova abordagem é composta por três elementos:
+- Autonomia
 
 ![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/48a93020-aa2a-43af-9888-9ea8d85e8eb2)
-E são quatro os fundamentos que compõem a autonomia tarefas.
+
+E são quatro os fundamentos que compõem a autonomia:
+
+![image](https://github.com/aevilesaguiar/formacao-agile-master/assets/52088444/00394e1b-0df8-4c29-a527-8689e17b4b99)
 
 ## Motivando times
 
